@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "org.example.itembordersstoragecompat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "itembordersstoragecompat.refmap.json",
+  "client": [
+    "RefinedStorageBaseScreenMixin",
+    "TomsStorageTerminalScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
