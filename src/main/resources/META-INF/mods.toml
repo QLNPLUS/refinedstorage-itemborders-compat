@@ -39,6 +39,20 @@ ordering="AFTER"
 side="CLIENT"
 
 [[dependencies.${mod_id}]]
+modId="ae2"
+mandatory=false
+versionRange="[15.0,)"
+ordering="AFTER"
+side="CLIENT"
+
+[[dependencies.${mod_id}]]
+modId="beyonddimensions"
+mandatory=false
+versionRange="[0.7,)"
+ordering="AFTER"
+side="CLIENT"
+
+[[dependencies.${mod_id}]]
 modId="itemborders"
 mandatory=true
 versionRange="[1.0,)"

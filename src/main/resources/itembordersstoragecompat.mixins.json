@@ -6,7 +6,10 @@
   "refmap": "itembordersstoragecompat.refmap.json",
   "client": [
     "RefinedStorageBaseScreenMixin",
-    "TomsStorageTerminalScreenMixin"
+    "TomsStorageTerminalScreenMixin",
+    "AppliedEnergisticsBaseScreenMixin",
+    "AppliedEnergisticsMEStorageScreenMixin",
+    "BeyondDimensionsBaseGuiMixin"
   ],
   "injectors": {
     "defaultRequire": 1
